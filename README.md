@@ -1,4 +1,4 @@
-### Enunciado de Questão:
+### Exercício Docker Compose:
 
 Você foi designado para construir o ambiente de uma aplicação web que consiste em um frontend escrito em JavaScript, um backend desenvolvido em Python (usando FastAPI), e um banco de dados Postgres. Sua tarefa é utilizar o Docker Compose para orquestrar todos os serviços da aplicação.
 
