@@ -36,3 +36,7 @@ Construa o arquivo `docker-compose.yml` que atenda aos requisitos acima. Inclua 
 - O backend deve se conectar corretamente ao banco de dados Postgres.
 - O banco de dados Postgres deve estar configurado com credenciais adequadas.
 - A persistência dos dados no banco de dados deve ser garantida entre execuções através do uso de volumes.
+
+### Entrega
+- Crie uma Branch com o seu nome e faça o commit do docker compose.
+- Prazo: `13/09/2024`
