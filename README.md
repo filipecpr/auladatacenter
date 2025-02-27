@@ -38,5 +38,5 @@ Construa o arquivo `docker-compose.yml` que atenda aos requisitos acima. Inclua 
 - A persistência dos dados no banco de dados deve ser garantida entre execuções através do uso de volumes.
 
 ### Entrega
-- Crie uma Branch com o seu nome e faça o commit do docker compose.
+- Envie um zip com o código no google Classroom
 - Prazo: `06/03/2025`
