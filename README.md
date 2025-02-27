@@ -39,4 +39,4 @@ Construa o arquivo `docker-compose.yml` que atenda aos requisitos acima. Inclua 
 
 ### Entrega
 - Crie uma Branch com o seu nome e faça o commit do docker compose.
-- Prazo: `13/09/2024`
+- Prazo: `06/03/2025`
