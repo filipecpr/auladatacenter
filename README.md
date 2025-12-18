@@ -39,4 +39,3 @@ Construa o arquivo `docker-compose.yml` que atenda aos requisitos acima. Inclua 
 
 ### Entrega
 - Envie um zip com o código no google Classroom
-- Prazo: `06/03/2025`
